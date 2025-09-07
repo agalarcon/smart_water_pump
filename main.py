@@ -5,7 +5,7 @@ Date: 2025-09-07
 Version: 1.0.0
 Description: This script is designed for a Raspberry Pi Pico W with RP2040 
 connected to the following peripherals: a Level Sense LS2600 Surface Liquid 
-Sensor, and a Tolako 5V Relay Module powering the Fielect 5-12V Self Priming 
+Sensor and a Tolako 5V Relay Module powering the Fielect 5-12V Self Priming 
 Diaphragm Pump Motor. The purpose is to power the pump automatically on 
 detection of a water leak through the water sensor. A 2K ohm resistor was used 
 as a pull-down resistor for the water sensor circuit.
